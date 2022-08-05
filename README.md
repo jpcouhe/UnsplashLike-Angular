@@ -8,8 +8,7 @@ Moteur de recherche d'images basé sur l'API d'Unsplash | Angular
 
 
 - Connection à une API externe
-- Scroll Infini avec ngx-infinite-scroll
-- Material Angular
+- Scroll Infini
 - Notions Angular (Resolvers, Form, Lazy loading)
 
 <img src="docs/unsplash-clone-preview.png" alt="drawing" height="250" />
@@ -23,6 +22,8 @@ Moteur de recherche d'images basé sur l'API d'Unsplash | Angular
 * Frontend 
     - Framework **Angular**
     - **SCSS**
+    - Material Angular
+    - npm ngx-infinite-scroll
 
 ## 🏗️ Installation
 
