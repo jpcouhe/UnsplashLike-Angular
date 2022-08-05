@@ -27,15 +27,15 @@ Moteur de recherche d'images basé sur l'API d'Unsplash | Angular
 ## 🏗️ Installation
 
 
-- Clone this project from Github
-- Make sur you have Node.js and Angular installed.
+- Cloner ce projet 
+- Assurer vous d'avoir Node et Angular d'installés 
 
     ### 🔍 Frontend
     
-This project was generated with Angular CLI 14.1.1
+Le projet a été généré avec Angular CLI 14.1.1
 
 - `npm install`
-- Run `ng serve` for a dev server. Navigate to http://localhost:4200/ . The app will automatically reload if you change any of the source files.
+- Run `ng serve` for a dev server. Navigater vers http://localhost:4200/
 
 ```
 environment variable (Key API unsplash pour les développeurs)
@@ -48,15 +48,14 @@ export const environment = {
 };
 ```
 
-## 🏗️ Usage
 
 ## 📬 Contact 
 
 COUHE Jean-philippe - [@linkedin](www.linkedin.com/in/jean-philippe-couhe) - pro@jean-philippecouhe.fr
 
 
-<a href='www.google.com'><img src='youtube.png' height="50" width='auto'></br>
-Project Link: [https://github.com/github_username/github_repo](https://github.com/github_username/github_repo)
+<a href='https://www.youtube.com/watch?v=c4FoYfU7N2c'><img src='youtube.png' height="50" width='auto'></br>
+
 
 ## 😊 Acknowledgements
 
