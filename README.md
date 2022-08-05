@@ -12,9 +12,9 @@ Moteur de recherche d'images basé sur l'API d'Unsplash | Angular
 - Material Angular
 - Notions Angular (Resolvers, Form, Lazy loading)
 
+<img src="docs/unsplash-clone-preview.png" alt="drawing" height="250" />
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
+<a href='https://www.youtube.com/watch?v=c4FoYfU7N2c'><img src='docs/youtube.png' height="50" width='auto'></br>
 
 
 
@@ -51,13 +51,13 @@ export const environment = {
 
 ## 📬 Contact 
 
-COUHE Jean-philippe - [@linkedin](www.linkedin.com/in/jean-philippe-couhe) - pro@jean-philippecouhe.fr
+COUHE Jean-philippe - pro@jean-philippecouhe.fr
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pro@jeanphilippecouhe.fr)
+ [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jean-philippe-couhe/) 
+ 
 
 
-<a href='https://www.youtube.com/watch?v=c4FoYfU7N2c'><img src='youtube.png' height="50" width='auto'></br>
-
-
-## 😊 Acknowledgements
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
