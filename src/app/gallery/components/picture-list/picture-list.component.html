@@ -1,0 +1,32 @@
+<app-search (newSearch)="onNewSearch($event)"></app-search>
+<div class="card-list"  
+>
+    <h1>Images</h1>
+    <div class="one">
+      <app-picture-list-item
+        *ngFor="let picture of picturesArray[0]"
+        [picture]="picture"
+      >
+      </app-picture-list-item>
+    </div>
+    <div class="two">
+      <app-picture-list-item
+        *ngFor="let picture of picturesArray[1]"
+        [picture]="picture"
+      >
+      </app-picture-list-item>
+    </div>
+    <div class="three">
+      <app-picture-list-item
+        *ngFor="let picture of picturesArray[2]"
+        [picture]="picture"
+      >
+      </app-picture-list-item>
+    </div>
+    
+  </div>
+  <div infiniteScroll
+  [infiniteScrollDistance]="1"
+  [infiniteScrollThrottle]="400"
+  (scrolled)="onScroll()">
+  </div>

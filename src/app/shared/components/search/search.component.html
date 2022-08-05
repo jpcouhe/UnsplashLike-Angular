@@ -1,0 +1,9 @@
+<div class="input-row">
+    <mat-form-field appearance="outline">
+        <mat-label>Votre recherche</mat-label>
+        <input type="text" matInput [formControl]="searchCtrl" (keyup.enter)="onSearch()">
+    </mat-form-field>
+    <!-- <button mat-icon-button color="primary" (click)="onSearch()">
+        <mat-icon>send</mat-icon>
+      </button> -->
+</div>

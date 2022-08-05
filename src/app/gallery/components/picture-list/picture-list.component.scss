@@ -1,0 +1,41 @@
+h1 {
+    margin-top: 20px;
+
+    @media screen and (max-width:500px) {
+    display: none;
+      
+    }
+  }
+  
+  .card-list {
+    display: grid;
+    grid-gap: 6px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    align-items: start;
+    max-width: 1000px;
+    padding: 20px;
+    margin: 0 auto;
+
+
+   
+    @media screen and (max-width:500px) {
+      display: flex;
+      flex-direction: column;
+      padding: 0;
+      
+    }
+  }
+  
+  .one {
+    grid-column: 1;
+  }
+  
+  .two {
+    grid-column: 2;
+  
+  }
+
+  .three {
+    grid-column: 3;
+  }
+  
